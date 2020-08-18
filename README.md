@@ -1,5 +1,14 @@
 # ForJulia
 
+This is a social simulation game based off ideas from Animal Crossing.
+
+Future iterations will include:
+* Map
+* Character design
+* NPCs
+* Items
+* Graphics
+...
 
 ## Screenshots
 
@@ -17,9 +26,6 @@ To run this application you will need to use S
 
 ## Built With
 
-* Java
-* JavaFX
-* SceneBuilder
 
 
 ## Authors
