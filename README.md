@@ -9,6 +9,12 @@ Future iterations will include:
 * Items
 * Graphics
 ...
+TODO:
+* Graphics
+* Story
+* Interface
+* Gameplay
+* Sound
 
 ## Screenshots
 
