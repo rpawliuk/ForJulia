@@ -1,6 +1,6 @@
 # ForJulia
 
-This is a social simulation game based off ideas from Animal Crossing.
+This is a social simulation game being made in C++ and SFML.
 
 Future iterations will include:
 * Map
